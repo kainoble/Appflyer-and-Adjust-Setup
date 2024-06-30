@@ -1,4 +1,4 @@
-package ai.devkaei.restapi_app;
+package yourpackagename;
 
 import static android.webkit.ConsoleMessage.MessageLevel.LOG;
 

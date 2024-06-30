@@ -1,0 +1,38 @@
+
+—
+java:S3008#"TRename this field "_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ª‹”8ªÚ½ñ…2J$68863a9b-6136-4738-9e10-0cc742d45dff
+Ÿ
+java:S1186¼"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»Şøğ8Ô¤åõ…2
+Ÿ
+java:S1845¼"€Rename method "PromptUserNetworkNotification" to prevent any misunderstanding/clash with method "promptUserNetworkNotification".(»Şøğ8Õ¤åõ…2
+
+java:S1450&"ZRemove the "isAFStarted" field and declare it as a local variable in the relevant methods.(¼­ÀÙ8­Ú½ñ…2J$e2d84bbd-c687-4ce2-8dea-b02bbf442f4d
+¡
+java:S1450'"^Remove the "isAdjustStarted" field and declare it as a local variable in the relevant methods.(ÔµÁâ8÷Ú½ñ…2J$0eca1360-b4cd-4634-84f2-70e260df5d6d
+Ü
+java:S6548!"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¢œú8úÚ½ñ…2J$3e17b157-6331-44fb-b566-c1065205c478
+y
+java:S2696,"6Make the enclosing method "static" or remove this set.(ø­÷ã8…Û½ñ…2J$71146ca9-b223-4cf1-9edf-e0a0585a9da8
+w
+java:S2864;"4Iterate over the "entrySet" instead of the "keySet".(—Å¤‚8ŒÛ½ñ…2J$e7d422ec-80c0-4e6e-aeba-a50feb58d533
+w
+java:S2864K"4Iterate over the "entrySet" instead of the "keySet".(—Å¤‚8Û½ñ…2J$b085fcfa-2920-40f5-9631-bbc433042168
+Ä
+java:S1186j"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜ıˆ8”Û½ñ…2J$c425d525-4529-4285-924c-b1b860e7df43
+Ä
+java:S1186o"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çßŠ¿8”Û½ñ…2J$fb64d0b2-168b-4b40-b71a-ea9278c87630
+Ä
+java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ªò 8”Û½ñ…2J$a02ddb7f-d1d5-492e-b3c3-20f1649b0994
+É
+java:S1186y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚åõÃüÿÿÿÿ8•Û½ñ…2J$f279ff70-9d1d-4f85-b60b-988c9878c6db
+É
+java:S1186~"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ãºèşÿÿÿÿ8•Û½ñ…2J$6aa055fc-2a91-4e3c-a05e-03afe78caee9
+Å
+java:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÒÏÃ8•Û½ñ…2J$5ce809b9-f507-44a0-8e87-df4b95342b5a
+Ê
+java:S1186ˆ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğÓÍ·ûÿÿÿÿ8•Û½ñ…2J$20699bd1-f8ad-4716-a691-16abe466654e
+k	java:S100¼"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Şøğ8ı¤åõ…2
+r
+java:S1068&"/Remove this unused "isAFStarted" private field.(¼­ÀÙ8¦Û½ñ…2J$0d7fd3b6-a373-4477-bf1f-d8ae88fb5241
+v
+java:S1068'"3Remove this unused "isAdjustStarted" private field.(ÔµÁâ8§Û½ñ…2J$1219f3f5-c37f-4d4b-90df-39c6a54f2b99

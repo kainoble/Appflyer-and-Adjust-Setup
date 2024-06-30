@@ -1,0 +1,56 @@
+plugins {
+    alias(libs.plugins.android.application)
+}
+
+android {
+    namespace 'ai.devkaei.restapi_app'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "ai.devkaei.restapi_app"
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: './libs', includes: ['*.jar','*.arr'])
+
+    implementation libs.appcompat
+    implementation libs.material
+    implementation libs.activity
+    implementation libs.constraintlayout
+    testImplementation libs.junit
+    androidTestImplementation libs.ext.junit
+    androidTestImplementation libs.espresso.core
+
+    // AppsFlyer SDK
+    implementation 'com.appsflyer:af-android-sdk:6.14.2'
+
+    // Google Play Services (Make sure to use the correct dependency)
+    implementation 'com.google.android.gms:play-services-base:18.5.0'  // You can specify other play-services modules as needed
+
+    // Adjust SDK
+    implementation 'com.adjust.sdk:adjust-android:4.33.5'  // Use the latest version available
+
+    // Google Play Install Referrer Library
+    implementation 'com.android.installreferrer:installreferrer:2.2'
+
+    implementation 'com.android.volley:volley-cronet:1.2.1'
+
+}

@@ -1,0 +1,13 @@
+
+“	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¼ùÊ8ï¡Üõ…2J$b45d6204-5919-4d6c-959c-e428e40ace9c
+‚
+java:S1854X":Remove this useless assignment to local variable "status".(øØƒ¦ûÿÿÿÿ8ˆ¢Üõ…2J$2536ee40-f324-4f2b-b45e-cf47ddbaadd8
+‚
+java:S1854W":Remove this useless assignment to local variable "region".(æúàÏúÿÿÿÿ8‰¢Üõ…2J$efcca188-de74-421f-9c30-e04f24b8a334
+s
+java:S1481W"+Remove this unused "region" local variable.(æúàÏúÿÿÿÿ8‹¢Üõ…2J$29e031c6-c8ae-4e36-ae71-fd0ca552864b
+s
+java:S1481X"+Remove this unused "status" local variable.(øØƒ¦ûÿÿÿÿ8Œ¢Üõ…2J$6e475d3f-0bc0-4138-bb52-a256f89a4224
+~	java:S125["<This block of commented-out lines of code should be removed.(Ş½éÖ8¢Üõ…2J$74737a57-c45f-438d-985d-94ef029af6e3
+z
+java:S1144C"2Remove this unused private "getUserRegion" method.(äí®“şÿÿÿÿ8¢Üõ…2J$dba94385-707c-47ae-9fbe-621aeb28319f
